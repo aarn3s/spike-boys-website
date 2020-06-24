@@ -2,14 +2,24 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { Nav, Navbar } from 'react-bootstrap'
 import styled from 'styled-components'
+import logo from '../spikeboys_logo.png'
 
 const Styles = styled.div`
 	.navbar{
 		background-color: #e3e3e3;
+		height: ;
 	}
 
 	a, .navbar-brand, .navbar-nav .nav-link {
 		color #222222;
+
+		img{
+			width: auto;
+			max-height: 52px;
+			position: absolute;
+			top: 2px;
+			left: 12px;
+		}
 
 		&:hover {
 			color: #767676;
@@ -21,11 +31,11 @@ export const NavigationBar = () => (
 	<Styles>
 		<Navbar expand="lg">
 			<Navbar.Brand href="/">
-	      <img
-	        src="../assets/spikeboys_logo.png"
-	        className="d-inline-block align-top"
-	        alt="Spike Boys Logo"
-	      />
+				<a href="/">
+          <img src={logo} 
+          alt="Spike Boys Logo"
+          />
+        </a>
 	    </Navbar.Brand>
 			<Navbar.Toggle aria-controls="basic-navbar-nav"/>
 			<Navbar.Collapse id="basic-navbar-nav">

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Jumbotron as Jumbo, Container } from 'react-bootstrap'
 import styled from 'styled-components'
-import spikeImage from '../assets/spike.jpg';
+import spikeImage from '../spike.jpg';
 
 const Styles = styled.div`
 	.jumbo {
