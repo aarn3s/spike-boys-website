@@ -3,7 +3,7 @@ This project is about creating a website for the Spike Boys company.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: <br />
 (you can also run other commands detailed in package.json)
 
 ### `npm start`
