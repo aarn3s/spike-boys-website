@@ -42,17 +42,27 @@ export const NavigationBar = () => (
 				<Nav className="m-auto">
           <Nav.Item>
             <Nav.Link>
-              <Link to="/">Home</Link>
+              <Link to="/">Etusivu</Link>
             </Nav.Link>
           </Nav.Item>
           <Nav.Item>
             <Nav.Link>
-              <Link to="/about">About</Link>
+              <Link to="/opi">Opi</Link>
             </Nav.Link>
           </Nav.Item>
           <Nav.Item>
             <Nav.Link>
-              <Link to="/contact">Contact</Link>
+              <Link to="/osta">Osta</Link>
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/tietoa-lajista">Tietoa Lajista</Link>
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/ota-yhteytta">Ota Yhteyttä</Link>
             </Nav.Link>
           </Nav.Item>
 				</Nav>
