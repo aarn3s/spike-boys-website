@@ -1,8 +1,5 @@
 import React from 'react'
 import { TextContainer } from './components/TextContainer'
-import { MediaContainer } from './components/MediaContainer'
-import ReactPlayer from 'react-player/youtube'
-
 
 export const Home = () => (
 	<div className="iso-div">
@@ -64,14 +61,5 @@ export const Home = () => (
         uirtus sicut iam tractauimus, meminerimus cum aliquid horum nomino sic accipiendum esse ac si omnia commemorem.
       </p>
 		</TextContainer>
-    <MediaContainer className='player-wrapper'> Jostain syysta mediaContainer ei toimi niin kuin pitäisi kuva katso 
-    esimerkki https://jsfiddle.net/e6w3rtj1/ ja vertaa mikä menee pieleen jotain tekemistä containereiden kanssa.
-      <ReactPlayer
-        className='react-player'
-        url='https://www.youtube.com/watch?v=mo4qTH-VYGM'
-        width='100%'
-        height='100%'
-      />
-    </MediaContainer>
 	</div>
 	)
