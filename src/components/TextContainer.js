@@ -9,10 +9,10 @@ const Styles = styled.div`
   }
 
   p {
-    font-size: 22px;
+    font-size: 16px;
     text-align: justify;
-    word-spacing: 8px;
-    line-height: 38px;
+    word-spacing: 0.7px;
+    line-height: 22px;
   }
 
   .container {

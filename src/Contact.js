@@ -31,5 +31,8 @@ export const Contact = () => (
         Lähetä
       </Button>
     </Form>
+    <br></br>
+    <br></br>
+    <br></br>
 	</div>
 	)

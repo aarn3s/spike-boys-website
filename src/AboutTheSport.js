@@ -4,7 +4,43 @@ export const AboutTheSport = () => (
 	<div>
 		<h2>Tietoa Lajista</h2>
 		<p>
-		Iam nunc quaeramus diligentius quantum dat deus quod paulo ante distulimus, utrum et singula quaeque in trinitate persona possit et per se ipsam non cum ceteris duabus dici deus aut magnus aut sapiens aut uerus aut omnipotens aut iustus et si quid aliud de deo dici potest, non relatiue sed ad se ipsum, an uero non dicantur ista nisi cum trinitas intellegitur. Hoc enim quaestionem facit quia scriptum est: Christum dei uirtutem et dei sapientiam, utrum ita sit pater sapientiae atque uirtutis suae ut hac sapientia sapiens sit quam genuit et hac uirtute potens quam genuit, et quia semper potens et sapiens, semper genuit uirtutem et sapientiam. Dixeramus enim si ita est cur non et magnitudinis suae pater sit qua magnus est et bonitatis qua bonus et iustitiae qua iustus et alia si qua sunt. Aut si haec omnia pluribus uocabulis in eadem sapientia et uirtute intelleguntur ut ea sit magnitudo quae uirtus, ea bonitas quae sapientia, et ea rursus sapientia quae uirtus sicut iam tractauimus, meminerimus cum aliquid horum nomino sic accipiendum esse ac si omnia commemorem.Iam nunc quaeramus diligentius quantum dat deus quod paulo ante distulimus, utrum et singula quaeque in trinitate persona possit et per se ipsam non cum ceteris duabus dici deus aut magnus aut sapiens aut uerus aut omnipotens aut iustus et si quid aliud de deo dici potest, non relatiue sed ad se ipsum, an uero non dicantur ista nisi cum trinitas intellegitur. Hoc enim quaestionem facit quia scriptum est: Christum dei uirtutem et dei sapientiam, utrum ita sit pater sapientiae atque uirtutis suae ut hac sapientia sapiens sit quam genuit et hac uirtute potens quam genuit, et quia semper potens et sapiens, semper genuit uirtutem et sapientiam. Dixeramus enim si ita est cur non et magnitudinis suae pater sit qua magnus est et bonitatis qua bonus et iustitiae qua iustus et alia si qua sunt. Aut si haec omnia pluribus uocabulis in eadem sapientia et uirtute intelleguntur ut ea sit magnitudo quae uirtus, ea bonitas quae sapientia, et ea rursus sapientia quae uirtus sicut iam tractauimus, meminerimus cum aliquid horum nomino sic accipiendum esse ac si omnia commemorem.
+		Lorem ipsum dolor sit amet, postea diceret id has, te inani labore vel, at everti nusquam sit. Ea eius meliore eos, mea in augue mazim. Vero brute sapientem vim an. Ex omnes petentium evertitur sit. Admodum imperdiet vis te, an pertinax conclusionemque has.
+
+Electram moderatius nam ea. Assum inimicus an pri, id nam unum tota. Te lobortis quaerendum eum, mea feugiat corrumpit no. Justo scaevola tacimates nec ad, ad sed eleifend torquatos. Ex quem posse animal mel. Vis tollit imperdiet ei, cu mel nostro minimum deleniti.
+
+Quo aeque dolor cu, vix ei brute feugiat. Illum epicuri nec ei, duo cu odio viris saperet. An mei elitr aeterno imperdiet, qui autem platonem te. Id nihil lobortis atomorum duo, legimus appareat adversarium sea at. Pri id equidem ocurreret, ius decore facete et. Id utinam partem argumentum quo.
+
+Mutat novum virtute ex duo, per homero volutpat convenire id. Ex cum quis tritani, eu ancillae concludaturque eum. Nam accumsan definitiones cu, liber voluptaria cu sed. Est hinc laudem theophrastus no, eu vel vero reformidans. Ne iudico tollit mea, ei per sint tota. Vis at sumo corrumpit efficiendi.
+
+Est in sumo quas suavitate, mel dolore senserit eu, in duo audiam interpretaris. Albucius ocurreret vix et. At sea novum iracundia, et usu fugit tractatos elaboraret, noster oporteat consequuntur est ei. Eos ad graecis efficiendi. An nec omnium gloriatur, eos eu ridens denique molestie.
+Lorem ipsum dolor sit amet, postea diceret id has, te inani labore vel, at everti nusquam sit. Ea eius meliore eos, mea in augue mazim. Vero brute sapientem vim an. Ex omnes petentium evertitur sit. Admodum imperdiet vis te, an pertinax conclusionemque has.
+
+Electram moderatius nam ea. Assum inimicus an pri, id nam unum tota. Te lobortis quaerendum eum, mea feugiat corrumpit no. Justo scaevola tacimates nec ad, ad sed eleifend torquatos. Ex quem posse animal mel. Vis tollit imperdiet ei, cu mel nostro minimum deleniti.
+
+Quo aeque dolor cu, vix ei brute feugiat. Illum epicuri nec ei, duo cu odio viris saperet. An mei elitr aeterno imperdiet, qui autem platonem te. Id nihil lobortis atomorum duo, legimus appareat adversarium sea at. Pri id equidem ocurreret, ius decore facete et. Id utinam partem argumentum quo.
+
+Mutat novum virtute ex duo, per homero volutpat convenire id. Ex cum quis tritani, eu ancillae concludaturque eum. Nam accumsan definitiones cu, liber voluptaria cu sed. Est hinc laudem theophrastus no, eu vel vero reformidans. Ne iudico tollit mea, ei per sint tota. Vis at sumo corrumpit efficiendi.
+
+Est in sumo quas suavitate, mel dolore senserit eu, in duo audiam interpretaris. Albucius ocurreret vix et. At sea novum iracundia, et usu fugit tractatos elaboraret, noster oporteat consequuntur est ei. Eos ad graecis efficiendi. An nec omnium gloriatur, eos eu ridens denique molestie.Lorem ipsum dolor sit amet, postea diceret id has, te inani labore vel, at everti nusquam sit. Ea eius meliore eos, mea in augue mazim. Vero brute sapientem vim an. Ex omnes petentium evertitur sit. Admodum imperdiet vis te, an pertinax conclusionemque has.
+
+Electram moderatius nam ea. Assum inimicus an pri, id nam unum tota. Te lobortis quaerendum eum, mea feugiat corrumpit no. Justo scaevola tacimates nec ad, ad sed eleifend torquatos. Ex quem posse animal mel. Vis tollit imperdiet ei, cu mel nostro minimum deleniti.
+
+Quo aeque dolor cu, vix ei brute feugiat. Illum epicuri nec ei, duo cu odio viris saperet. An mei elitr aeterno imperdiet, qui autem platonem te. Id nihil lobortis atomorum duo, legimus appareat adversarium sea at. Pri id equidem ocurreret, ius decore facete et. Id utinam partem argumentum quo.
+
+Mutat novum virtute ex duo, per homero volutpat convenire id. Ex cum quis tritani, eu ancillae concludaturque eum. Nam accumsan definitiones cu, liber voluptaria cu sed. Est hinc laudem theophrastus no, eu vel vero reformidans. Ne iudico tollit mea, ei per sint tota. Vis at sumo corrumpit efficiendi.
+
+Est in sumo quas suavitate, mel dolore senserit eu, in duo audiam interpretaris. Albucius ocurreret vix et. At sea novum iracundia, et usu fugit tractatos elaboraret, noster oporteat consequuntur est ei. Eos ad graecis efficiendi. An nec omnium gloriatur, eos eu ridens denique molestie.Lorem ipsum dolor sit amet, postea diceret id has, te inani labore vel, at everti nusquam sit. Ea eius meliore eos, mea in augue mazim. Vero brute sapientem vim an. Ex omnes petentium evertitur sit. Admodum imperdiet vis te, an pertinax conclusionemque has.
+
+Electram moderatius nam ea. Assum inimicus an pri, id nam unum tota. Te lobortis quaerendum eum, mea feugiat corrumpit no. Justo scaevola tacimates nec ad, ad sed eleifend torquatos. Ex quem posse animal mel. Vis tollit imperdiet ei, cu mel nostro minimum deleniti.
+
+Quo aeque dolor cu, vix ei brute feugiat. Illum epicuri nec ei, duo cu odio viris saperet. An mei elitr aeterno imperdiet, qui autem platonem te. Id nihil lobortis atomorum duo, legimus appareat adversarium sea at. Pri id equidem ocurreret, ius decore facete et. Id utinam partem argumentum quo.
+
+Mutat novum virtute ex duo, per homero volutpat convenire id. Ex cum quis tritani, eu ancillae concludaturque eum. Nam accumsan definitiones cu, liber voluptaria cu sed. Est hinc laudem theophrastus no, eu vel vero reformidans. Ne iudico tollit mea, ei per sint tota. Vis at sumo corrumpit efficiendi.
+
+Est in sumo quas suavitate, mel dolore senserit eu, in duo audiam interpretaris. Albucius ocurreret vix et. At sea novum iracundia, et usu fugit tractatos elaboraret, noster oporteat consequuntur est ei. Eos ad graecis efficiendi. An nec omnium gloriatur, eos eu ridens denique molestie.
 		</p>
+    <br></br>
+    <br></br>
+    <br></br>
 	</div>
 	)
